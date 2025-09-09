@@ -1,0 +1,7 @@
+Course Code: CSE-2340
+Course Nmae: Software Development-1
+
+Name: Ahmed Ibrahim Sajid
+ID: C243042
+Section: 3BM
+Semester: 3rd.
