@@ -1,6 +1,6 @@
 # SD1_AU25_C243042
 
-This repository contains all lab tasks for **CSE 2340 - Software Development 1 (SD1)**, Fall 2025.
+This repository contains all lab tasks for **CSE 2340 - Software Development 1 (SD1)**, Autumn 2025.
 
 ## Contents
 - [Lab Task 1](./LabTask1) - Java basics: setup, syntax, variables, loops, arrays, etc.
