@@ -1,5 +1,5 @@
 public class Student_main {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Student s1 = new Student();
         s1.name = "Ahmed Ibrahim Sajid";
         s1.id = 243042;
