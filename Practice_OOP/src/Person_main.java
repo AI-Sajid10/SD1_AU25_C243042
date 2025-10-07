@@ -1,4 +1,4 @@
-public class Public_main {
+public class Person_main {
     public static void main(String[] args) {
         Person p1 = new Person();
         p1.setName("Ahmed Ibrahim Sajid");
